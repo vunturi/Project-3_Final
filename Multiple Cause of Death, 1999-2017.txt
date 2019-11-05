@@ -1,0 +1,502 @@
+"Notes"	"Census Region"	"Census Region Code"	"State"	"State Code"	"Gender"	"Gender Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"1999"	"1999"	307	44849	684.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2000"	"2000"	274	45251	605.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2001"	"2001"	323	48236	669.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2002"	"2002"	313	47896	653.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2003"	"2003"	354	48610	728.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2004"	"2004"	341	49151	693.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2005"	"2005"	344	49200	699.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2006"	"2006"	357	49916	715.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2007"	"2007"	369	51072	722.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2008"	"2008"	355	50599	701.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2009"	"2009"	325	49252	659.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2010"	"2010"	300	48965	612.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2011"	"2011"	319	49680	642.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2012"	"2012"	301	49320	610.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2013"	"2013"	292	50290	580.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2014"	"2014"	269	50439	533.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2015"	"2015"	265	50235	527.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2016"	"2016"	241	49500	486.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"	"2017"	"2017"	256	49315	519.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"< 1 year"	"1"			5905	931776	633.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"1999"	"1999"	52	179390	29.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2000"	"2000"	55	180647	30.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2001"	"2001"	42	181252	23.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2002"	"2002"	46	184866	24.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2003"	"2003"	46	188284	24.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2004"	"2004"	49	192638	25.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2005"	"2005"	48	195848	24.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2006"	"2006"	40	195869	20.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2007"	"2007"	49	196598	24.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2008"	"2008"	37	197837	18.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2009"	"2009"	44	199594	22.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2010"	"2010"	35	200553	17.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2011"	"2011"	44	200395	22.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2012"	"2012"	51	200779	25.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2013"	"2013"	33	200693	16.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2014"	"2014"	47	200954	23.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2015"	"2015"	37	201233	18.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2016"	"2016"	48	199697	24.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"	"2017"	"2017"	41	200524	20.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"1-4 years"	"1-4"			844	3697651	22.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"1999"	"1999"	70	480401	14.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2000"	"2000"	67	484876	13.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2001"	"2001"	70	486078	14.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2002"	"2002"	75	487847	15.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2003"	"2003"	62	487477	12.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2004"	"2004"	59	488844	12.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2005"	"2005"	69	487939	14.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2006"	"2006"	49	488249	10.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2007"	"2007"	68	489306	13.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2008"	"2008"	44	492334	8.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2009"	"2009"	40	497090	8.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2010"	"2010"	43	500922	8.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2011"	"2011"	63	503779	12.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2012"	"2012"	50	506909	9.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2013"	"2013"	63	510704	12.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2014"	"2014"	52	510629	10.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2015"	"2015"	67	509722	13.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2016"	"2016"	48	510731	9.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"	"2017"	"2017"	43	509523	8.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"5-14 years"	"5-14"			1102	9433360	11.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"1999"	"1999"	168	459755	36.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2000"	"2000"	206	466888	44.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2001"	"2001"	201	482205	41.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2002"	"2002"	218	493126	44.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2003"	"2003"	221	503334	43.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2004"	"2004"	210	516441	40.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2005"	"2005"	218	526701	41.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2006"	"2006"	203	535606	37.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2007"	"2007"	204	541041	37.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2008"	"2008"	217	542753	40.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2009"	"2009"	186	546094	34.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2010"	"2010"	172	547513	31.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2011"	"2011"	211	548971	38.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2012"	"2012"	182	552700	32.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2013"	"2013"	180	554453	32.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2014"	"2014"	170	556019	30.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2015"	"2015"	182	553842	32.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2016"	"2016"	183	548161	33.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"	"2017"	"2017"	176	545621	32.3
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"15-24 years"	"15-24"			3708	10021224	37.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"1999"	"1999"	302	522405	57.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2000"	"2000"	307	515479	59.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2001"	"2001"	309	510047	60.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2002"	"2002"	305	507923	60.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2003"	"2003"	296	507432	58.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2004"	"2004"	300	508417	59.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2005"	"2005"	301	510170	59.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2006"	"2006"	267	511840	52.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2007"	"2007"	306	515726	59.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2008"	"2008"	313	524573	59.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2009"	"2009"	296	535689	55.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2010"	"2010"	306	544795	56.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2011"	"2011"	339	557492	60.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2012"	"2012"	284	567232	50.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2013"	"2013"	330	573715	57.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2014"	"2014"	326	579557	56.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2015"	"2015"	371	582640	63.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2016"	"2016"	432	580838	74.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"	"2017"	"2017"	441	585364	75.3
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"25-34 years"	"25-34"			6131	10241334	59.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"1999"	"1999"	835	601916	138.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2000"	"2000"	861	606713	141.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2001"	"2001"	842	607785	138.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2002"	"2002"	834	605657	137.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2003"	"2003"	829	600889	138.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2004"	"2004"	806	598641	134.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2005"	"2005"	766	595787	128.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2006"	"2006"	778	592823	131.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2007"	"2007"	770	586192	131.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2008"	"2008"	728	577024	126.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2009"	"2009"	718	567107	126.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2010"	"2010"	688	560390	122.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2011"	"2011"	642	552557	116.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2012"	"2012"	662	550841	120.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2013"	"2013"	637	548349	116.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2014"	"2014"	686	548527	125.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2015"	"2015"	652	548401	118.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2016"	"2016"	710	547204	129.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"	"2017"	"2017"	714	550183	129.8
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"35-44 years"	"35-44"			14158	10946986	129.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"1999"	"1999"	1396	497248	280.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2000"	"2000"	1511	511480	295.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2001"	"2001"	1659	535234	310.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2002"	"2002"	1585	542463	292.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2003"	"2003"	1579	552182	286.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2004"	"2004"	1617	564968	286.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2005"	"2005"	1768	576532	306.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2006"	"2006"	1743	587400	296.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2007"	"2007"	1777	597258	297.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2008"	"2008"	1753	606224	289.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2009"	"2009"	1740	615470	282.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2010"	"2010"	1803	620228	290.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2011"	"2011"	1788	617373	289.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2012"	"2012"	1784	613961	290.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2013"	"2013"	1738	607271	286.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2014"	"2014"	1768	601127	294.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2015"	"2015"	1733	596147	290.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2016"	"2016"	1706	591909	288.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"	"2017"	"2017"	1666	585525	284.5
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"45-54 years"	"45-54"			32114	11020000	291.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"1999"	"1999"	2453	317349	773.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2000"	"2000"	2533	325754	777.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2001"	"2001"	2503	339149	738.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2002"	"2002"	2601	363845	714.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2003"	"2003"	2674	383715	696.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2004"	"2004"	2705	403925	669.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2005"	"2005"	2953	421519	700.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2006"	"2006"	2844	437843	649.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2007"	"2007"	2900	452625	640.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2008"	"2008"	2966	465012	637.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2009"	"2009"	3043	481695	631.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2010"	"2010"	2967	496060	598.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2011"	"2011"	3184	517778	614.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2012"	"2012"	3159	523767	603.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2013"	"2013"	3269	532097	614.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2014"	"2014"	3459	541278	639.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2015"	"2015"	3508	551721	635.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2016"	"2016"	3649	560928	650.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"	"2017"	"2017"	3759	568692	661.0
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"55-64 years"	"55-64"			57129	8684752	657.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"1999"	"1999"	4886	238587	2047.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2000"	"2000"	4871	237662	2049.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2001"	"2001"	4662	238671	1953.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2002"	"2002"	4498	239639	1877.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2003"	"2003"	4584	242131	1893.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2004"	"2004"	4431	245105	1807.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2005"	"2005"	4424	249893	1770.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2006"	"2006"	4432	255363	1735.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2007"	"2007"	4275	262710	1627.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2008"	"2008"	4462	274963	1622.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2009"	"2009"	4562	286122	1594.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2010"	"2010"	4441	293349	1513.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2011"	"2011"	4631	305190	1517.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2012"	"2012"	4833	327611	1475.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2013"	"2013"	4982	345077	1443.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2014"	"2014"	5193	361838	1435.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2015"	"2015"	5338	377423	1414.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2016"	"2016"	5533	392283	1410.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"	"2017"	"2017"	5798	406157	1427.5
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"65-74 years"	"65-74"			90836	5579774	1628.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"1999"	"1999"	8391	165029	5084.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2000"	"2000"	8532	167818	5084.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2001"	"2001"	8572	171877	4987.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2002"	"2002"	8695	174477	4983.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2003"	"2003"	8734	176368	4952.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2004"	"2004"	8491	177480	4784.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2005"	"2005"	8466	179311	4721.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2006"	"2006"	8091	179740	4501.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2007"	"2007"	8188	178892	4577.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2008"	"2008"	8187	178807	4578.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2009"	"2009"	7824	177821	4399.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2010"	"2010"	7687	178309	4311.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2011"	"2011"	7733	179935	4297.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2012"	"2012"	7600	181469	4188.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2013"	"2013"	7735	184080	4202.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2014"	"2014"	7668	187917	4080.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2015"	"2015"	7832	192296	4072.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2016"	"2016"	7715	197873	3899.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"	"2017"	"2017"	7902	205264	3849.7
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"75-84 years"	"75-84"			154043	3434763	4484.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"1999"	"1999"	9224	62754	14698.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2000"	"2000"	9785	64052	15276.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2001"	"2001"	9849	64852	15186.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2002"	"2002"	10039	65956	15220.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2003"	"2003"	10276	67358	15255.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2004"	"2004"	9843	68700	14327.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2005"	"2005"	10266	70746	14511.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2006"	"2006"	10456	73826	14163.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2007"	"2007"	10602	76546	13850.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2008"	"2008"	11053	78857	14016.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2009"	"2009"	10775	81961	13146.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2010"	"2010"	11322	83957	13485.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2011"	"2011"	11852	87289	13577.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2012"	"2012"	12129	89753	13513.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2013"	"2013"	12317	91474	13465.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2014"	"2014"	12268	92760	13225.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2015"	"2015"	12752	94568	13484.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2016"	"2016"	12546	95870	13086.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"	"2017"	"2017"	12896	97125	13277.7
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"85+ years"	"85+"			210250	1508404	13938.6
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"	"Not Stated"	"NS"			17	Not Applicable	Not Applicable
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Female"	"F"					576237	75500024	763.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"1999"	"1999"	386	47014	821.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2000"	"2000"	408	47457	859.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2001"	"2001"	424	50007	847.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2002"	"2002"	428	49988	856.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2003"	"2003"	425	49732	854.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2004"	"2004"	435	52096	835.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2005"	"2005"	437	52057	839.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2006"	"2006"	408	52415	778.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2007"	"2007"	479	53393	897.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2008"	"2008"	377	52843	713.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2009"	"2009"	426	50872	837.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2010"	"2010"	400	51113	782.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2011"	"2011"	380	51766	734.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2012"	"2012"	356	51490	691.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2013"	"2013"	342	52502	651.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2014"	"2014"	326	52683	618.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2015"	"2015"	347	52628	659.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2016"	"2016"	354	51943	681.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"	"2017"	"2017"	336	51747	649.3
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"< 1 year"	"1"			7474	973746	767.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"1999"	"1999"	58	187196	31.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2000"	"2000"	59	188627	31.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2001"	"2001"	60	189280	31.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2002"	"2002"	62	192753	32.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2003"	"2003"	67	196059	34.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2004"	"2004"	54	199576	27.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2005"	"2005"	61	203731	29.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2006"	"2006"	59	204592	28.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2007"	"2007"	55	205276	26.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2008"	"2008"	59	207935	28.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2009"	"2009"	52	208718	24.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2010"	"2010"	52	208994	24.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2011"	"2011"	51	208346	24.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2012"	"2012"	59	208013	28.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2013"	"2013"	49	208630	23.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2014"	"2014"	56	210817	26.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2015"	"2015"	63	211061	29.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2016"	"2016"	47	209361	22.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"	"2017"	"2017"	52	210088	24.8
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"1-4 years"	"1-4"			1075	3859053	27.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"1999"	"1999"	84	501575	16.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2000"	"2000"	88	506163	17.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2001"	"2001"	70	507736	13.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2002"	"2002"	89	509226	17.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2003"	"2003"	112	509258	22.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2004"	"2004"	95	510642	18.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2005"	"2005"	92	509052	18.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2006"	"2006"	70	510132	13.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2007"	"2007"	87	511005	17.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2008"	"2008"	75	512060	14.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2009"	"2009"	64	517879	12.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2010"	"2010"	64	522173	12.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2011"	"2011"	82	525179	15.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2012"	"2012"	75	528777	14.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2013"	"2013"	60	532220	11.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2014"	"2014"	60	531359	11.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2015"	"2015"	59	530132	11.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2016"	"2016"	74	530508	13.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"	"2017"	"2017"	76	530168	14.3
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"5-14 years"	"5-14"			1476	9835244	15.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"1999"	"1999"	511	489000	104.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2000"	"2000"	502	497751	100.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2001"	"2001"	513	516583	99.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2002"	"2002"	547	524796	104.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2003"	"2003"	597	534815	111.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2004"	"2004"	562	546340	102.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2005"	"2005"	581	559640	103.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2006"	"2006"	609	571109	106.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2007"	"2007"	583	573781	101.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2008"	"2008"	622	574590	108.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2009"	"2009"	492	575514	85.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2010"	"2010"	461	575543	80.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2011"	"2011"	514	579498	88.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2012"	"2012"	506	581942	87.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2013"	"2013"	473	584250	81.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2014"	"2014"	469	585596	80.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2015"	"2015"	527	584537	90.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2016"	"2016"	579	582429	99.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"	"2017"	"2017"	568	577125	98.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"15-24 years"	"15-24"			10216	10614839	96.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"1999"	"1999"	667	526030	126.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2000"	"2000"	660	521486	126.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2001"	"2001"	636	515628	123.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2002"	"2002"	650	510683	127.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2003"	"2003"	699	506651	138.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2004"	"2004"	658	507890	129.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2005"	"2005"	664	508900	130.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2006"	"2006"	646	512127	126.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2007"	"2007"	720	516854	139.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2008"	"2008"	624	526613	118.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2009"	"2009"	605	536665	112.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2010"	"2010"	642	545624	117.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2011"	"2011"	661	562099	117.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2012"	"2012"	702	576039	121.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2013"	"2013"	746	587078	127.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2014"	"2014"	744	595705	124.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2015"	"2015"	823	601045	136.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2016"	"2016"	912	591222	154.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"	"2017"	"2017"	920	599906	153.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"25-34 years"	"25-34"			13379	10348245	129.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"1999"	"1999"	1358	588717	230.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2000"	"2000"	1368	593977	230.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2001"	"2001"	1372	593981	231.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2002"	"2002"	1387	588706	235.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2003"	"2003"	1418	581644	243.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2004"	"2004"	1156	577077	200.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2005"	"2005"	1250	575168	217.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2006"	"2006"	1224	573852	213.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2007"	"2007"	1169	568133	205.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2008"	"2008"	1112	561243	198.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2009"	"2009"	1063	552177	192.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2010"	"2010"	1039	548538	189.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2011"	"2011"	995	541077	183.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2012"	"2012"	1013	541219	187.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2013"	"2013"	947	540937	175.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2014"	"2014"	1013	540238	187.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2015"	"2015"	1079	541071	199.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2016"	"2016"	1118	538721	207.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"	"2017"	"2017"	1148	543549	211.2
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"35-44 years"	"35-44"			22229	10690025	207.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"1999"	"1999"	2340	474690	493.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2000"	"2000"	2497	487776	511.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2001"	"2001"	2576	510141	505.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2002"	"2002"	2646	517372	511.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2003"	"2003"	2650	525725	504.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2004"	"2004"	2623	537026	488.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2005"	"2005"	2698	548824	491.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2006"	"2006"	2840	561358	505.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2007"	"2007"	2728	570988	477.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2008"	"2008"	2785	579782	480.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2009"	"2009"	2836	588655	481.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2010"	"2010"	2689	593772	452.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2011"	"2011"	2759	592031	466.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2012"	"2012"	2642	587692	449.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2013"	"2013"	2616	581010	450.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2014"	"2014"	2586	575329	449.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2015"	"2015"	2510	570969	439.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2016"	"2016"	2556	570475	448.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"	"2017"	"2017"	2462	563478	436.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"45-54 years"	"45-54"			50039	10537093	474.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"1999"	"1999"	3657	297502	1229.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2000"	"2000"	3715	305857	1214.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2001"	"2001"	3693	318881	1158.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2002"	"2002"	3766	342072	1100.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2003"	"2003"	4066	360265	1128.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2004"	"2004"	3986	378392	1053.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2005"	"2005"	4246	394007	1077.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2006"	"2006"	4176	408287	1022.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2007"	"2007"	4348	421361	1031.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2008"	"2008"	4446	431700	1029.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2009"	"2009"	4592	446545	1028.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2010"	"2010"	4632	458904	1009.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2011"	"2011"	4730	477520	990.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2012"	"2012"	4836	482681	1001.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2013"	"2013"	5032	490825	1025.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2014"	"2014"	5138	499146	1029.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2015"	"2015"	5377	509216	1055.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2016"	"2016"	5377	519437	1035.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"	"2017"	"2017"	5668	527784	1073.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"55-64 years"	"55-64"			85481	8070382	1059.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"1999"	"1999"	6275	193861	3236.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2000"	"2000"	6070	194794	3116.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2001"	"2001"	5865	198385	2956.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2002"	"2002"	5849	201573	2901.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2003"	"2003"	5775	205193	2814.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2004"	"2004"	5676	209307	2711.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2005"	"2005"	5603	214575	2611.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2006"	"2006"	5526	220008	2511.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2007"	"2007"	5434	227502	2388.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2008"	"2008"	5670	239365	2368.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2009"	"2009"	5836	249336	2340.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2010"	"2010"	5908	256455	2303.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2011"	"2011"	5944	268105	2217.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2012"	"2012"	6217	288251	2156.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2013"	"2013"	6498	303390	2141.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2014"	"2014"	6706	317044	2115.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2015"	"2015"	7110	330280	2152.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2016"	"2016"	7275	342241	2125.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"	"2017"	"2017"	7526	353361	2129.8
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"65-74 years"	"65-74"			116763	4813026	2426.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"1999"	"1999"	7771	102454	7584.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2000"	"2000"	7674	104793	7323.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2001"	"2001"	7721	108191	7136.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2002"	"2002"	7961	110759	7187.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2003"	"2003"	8034	113294	7091.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2004"	"2004"	7722	115224	6701.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2005"	"2005"	7590	118184	6422.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2006"	"2006"	7739	120173	6439.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2007"	"2007"	7688	121506	6327.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2008"	"2008"	7639	123431	6188.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2009"	"2009"	7416	124605	5951.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2010"	"2010"	7171	126421	5672.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2011"	"2011"	7571	129786	5833.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2012"	"2012"	7579	132954	5700.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2013"	"2013"	7576	137087	5526.4
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2014"	"2014"	7733	141247	5474.8
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2015"	"2015"	7855	145882	5384.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2016"	"2016"	8058	151020	5335.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"	"2017"	"2017"	8451	158112	5344.9
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"75-84 years"	"75-84"			146949	2385123	6161.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"1999"	"1999"	4123	22452	18363.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2000"	"2000"	4237	23214	18251.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2001"	"2001"	4314	24163	17853.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2002"	"2002"	4596	25250	18202.0
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2003"	"2003"	4783	26561	18007.6
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2004"	"2004"	4728	27695	17071.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2005"	"2005"	5008	29321	17079.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2006"	"2006"	5131	31197	16447.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2007"	"2007"	5424	33235	16320.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2008"	"2008"	5573	34951	15945.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2009"	"2009"	5712	37076	15406.2
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2010"	"2010"	6202	38446	16131.7
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2011"	"2011"	6307	40758	15474.3
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2012"	"2012"	6542	42467	15404.9
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2013"	"2013"	6801	44273	15361.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2014"	"2014"	6856	46080	14878.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2015"	"2015"	7090	47944	14788.1
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2016"	"2016"	7311	49457	14782.5
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"	"2017"	"2017"	7680	51409	14939.0
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"85+ years"	"85+"			108418	675949	16039.4
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"	"Not Stated"	"NS"			40	Not Applicable	Not Applicable
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Male"	"M"					563539	72802725	774.1
+"Total"	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"							1139776	148302749	768.5
+"Total"	"Census Region 3: South"	"CENS-R3"									1139776	148302749	768.5
+"Total"											1139776	148302749	768.5
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"States: Virginia (51)"
+"Group By: Census Region; State; Gender; Ten-Year Age Groups; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Nov 5, 2019 2:24:05 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Nov 5, 2019 2:24:05 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Census Region 3: South. The Query Description lists the actual"
+"values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"6. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
