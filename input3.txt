@@ -1,0 +1,482 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Barbour County, WV"	"54001"	"2006"	"2006"	201	15922	1262.4
+	"Barbour County, WV"	"54001"	"2007"	"2007"	164	16036	1022.7
+	"Barbour County, WV"	"54001"	"2008"	"2008"	179	16241	1102.1
+	"Barbour County, WV"	"54001"	"2009"	"2009"	188	16479	1140.8
+	"Barbour County, WV"	"54001"	"2010"	"2010"	174	16589	1048.9
+	"Barbour County, WV"	"54001"	"2011"	"2011"	178	16520	1077.5
+	"Barbour County, WV"	"54001"	"2012"	"2012"	208	16493	1261.1
+"Total"	"Barbour County, WV"	"54001"			1292	114280	1130.6
+	"Berkeley County, WV"	"54003"	"2006"	"2006"	743	96318	771.4
+	"Berkeley County, WV"	"54003"	"2007"	"2007"	735	99132	741.4
+	"Berkeley County, WV"	"54003"	"2008"	"2008"	807	101629	794.1
+	"Berkeley County, WV"	"54003"	"2009"	"2009"	837	102830	814.0
+	"Berkeley County, WV"	"54003"	"2010"	"2010"	800	104169	768.0
+	"Berkeley County, WV"	"54003"	"2011"	"2011"	880	105750	832.2
+	"Berkeley County, WV"	"54003"	"2012"	"2012"	896	107098	836.6
+"Total"	"Berkeley County, WV"	"54003"			5698	716926	794.8
+	"Boone County, WV"	"54005"	"2006"	"2006"	332	25101	1322.7
+	"Boone County, WV"	"54005"	"2007"	"2007"	348	25115	1385.6
+	"Boone County, WV"	"54005"	"2008"	"2008"	367	24794	1480.2
+	"Boone County, WV"	"54005"	"2009"	"2009"	285	24766	1150.8
+	"Boone County, WV"	"54005"	"2010"	"2010"	333	24629	1352.1
+	"Boone County, WV"	"54005"	"2011"	"2011"	333	24444	1362.3
+	"Boone County, WV"	"54005"	"2012"	"2012"	281	24478	1148.0
+"Total"	"Boone County, WV"	"54005"			2279	173327	1314.9
+	"Braxton County, WV"	"54007"	"2006"	"2006"	184	14585	1261.6
+	"Braxton County, WV"	"54007"	"2007"	"2007"	183	14585	1254.7
+	"Braxton County, WV"	"54007"	"2008"	"2008"	182	14587	1247.7
+	"Braxton County, WV"	"54007"	"2009"	"2009"	163	14512	1123.2
+	"Braxton County, WV"	"54007"	"2010"	"2010"	152	14523	1046.6
+	"Braxton County, WV"	"54007"	"2011"	"2011"	165	14485	1139.1
+	"Braxton County, WV"	"54007"	"2012"	"2012"	196	14468	1354.7
+"Total"	"Braxton County, WV"	"54007"			1225	101745	1204.0
+	"Brooke County, WV"	"54009"	"2006"	"2006"	337	24399	1381.2
+	"Brooke County, WV"	"54009"	"2007"	"2007"	348	24235	1435.9
+	"Brooke County, WV"	"54009"	"2008"	"2008"	308	24168	1274.4
+	"Brooke County, WV"	"54009"	"2009"	"2009"	302	24153	1250.4
+	"Brooke County, WV"	"54009"	"2010"	"2010"	361	24069	1499.9
+	"Brooke County, WV"	"54009"	"2011"	"2011"	354	23844	1484.7
+	"Brooke County, WV"	"54009"	"2012"	"2012"	336	23853	1408.6
+"Total"	"Brooke County, WV"	"54009"			2346	168721	1390.5
+	"Cabell County, WV"	"54011"	"2006"	"2006"	1129	94943	1189.1
+	"Cabell County, WV"	"54011"	"2007"	"2007"	1255	95059	1320.2
+	"Cabell County, WV"	"54011"	"2008"	"2008"	1255	95209	1318.2
+	"Cabell County, WV"	"54011"	"2009"	"2009"	1090	96040	1134.9
+	"Cabell County, WV"	"54011"	"2010"	"2010"	1145	96319	1188.8
+	"Cabell County, WV"	"54011"	"2011"	"2011"	1168	96653	1208.4
+	"Cabell County, WV"	"54011"	"2012"	"2012"	1079	96974	1112.7
+"Total"	"Cabell County, WV"	"54011"			8121	671197	1209.9
+	"Calhoun County, WV"	"54013"	"2006"	"2006"	78	7531	1035.7
+	"Calhoun County, WV"	"54013"	"2007"	"2007"	87	7588	1146.5
+	"Calhoun County, WV"	"54013"	"2008"	"2008"	91	7621	1194.1
+	"Calhoun County, WV"	"54013"	"2009"	"2009"	88	7560	1164.0
+	"Calhoun County, WV"	"54013"	"2010"	"2010"	90	7627	1180.0
+	"Calhoun County, WV"	"54013"	"2011"	"2011"	95	7652	1241.5
+	"Calhoun County, WV"	"54013"	"2012"	"2012"	105	7607	1380.3
+"Total"	"Calhoun County, WV"	"54013"			634	53186	1192.0
+	"Clay County, WV"	"54015"	"2006"	"2006"	136	9695	1402.8
+	"Clay County, WV"	"54015"	"2007"	"2007"	121	9696	1247.9
+	"Clay County, WV"	"54015"	"2008"	"2008"	121	9603	1260.0
+	"Clay County, WV"	"54015"	"2009"	"2009"	100	9505	1052.1
+	"Clay County, WV"	"54015"	"2010"	"2010"	100	9386	1065.4
+	"Clay County, WV"	"54015"	"2011"	"2011"	102	9357	1090.1
+	"Clay County, WV"	"54015"	"2012"	"2012"	112	9297	1204.7
+"Total"	"Clay County, WV"	"54015"			792	66539	1190.3
+	"Doddridge County, WV"	"54017"	"2006"	"2006"	81	7848	1032.1
+	"Doddridge County, WV"	"54017"	"2007"	"2007"	62	7970	777.9
+	"Doddridge County, WV"	"54017"	"2008"	"2008"	80	8034	995.8
+	"Doddridge County, WV"	"54017"	"2009"	"2009"	80	8124	984.7
+	"Doddridge County, WV"	"54017"	"2010"	"2010"	75	8202	914.4
+	"Doddridge County, WV"	"54017"	"2011"	"2011"	81	8171	991.3
+	"Doddridge County, WV"	"54017"	"2012"	"2012"	83	8178	1014.9
+"Total"	"Doddridge County, WV"	"54017"			542	56527	958.8
+	"Fayette County, WV"	"54019"	"2006"	"2006"	607	46200	1313.9
+	"Fayette County, WV"	"54019"	"2007"	"2007"	646	46243	1397.0
+	"Fayette County, WV"	"54019"	"2008"	"2008"	626	46171	1355.8
+	"Fayette County, WV"	"54019"	"2009"	"2009"	670	46034	1455.4
+	"Fayette County, WV"	"54019"	"2010"	"2010"	647	46039	1405.3
+	"Fayette County, WV"	"54019"	"2011"	"2011"	608	45699	1330.4
+	"Fayette County, WV"	"54019"	"2012"	"2012"	640	45869	1395.3
+"Total"	"Fayette County, WV"	"54019"			4444	322255	1379.0
+	"Gilmer County, WV"	"54021"	"2006"	"2006"	106	8083	1311.4
+	"Gilmer County, WV"	"54021"	"2007"	"2007"	87	8248	1054.8
+	"Gilmer County, WV"	"54021"	"2008"	"2008"	81	8408	963.4
+	"Gilmer County, WV"	"54021"	"2009"	"2009"	82	8529	961.4
+	"Gilmer County, WV"	"54021"	"2010"	"2010"	58	8693	667.2
+	"Gilmer County, WV"	"54021"	"2011"	"2011"	73	8705	838.6
+	"Gilmer County, WV"	"54021"	"2012"	"2012"	82	8732	939.1
+"Total"	"Gilmer County, WV"	"54021"			569	59398	957.9
+	"Grant County, WV"	"54023"	"2006"	"2006"	124	11834	1047.8
+	"Grant County, WV"	"54023"	"2007"	"2007"	111	11969	927.4
+	"Grant County, WV"	"54023"	"2008"	"2008"	116	12022	964.9
+	"Grant County, WV"	"54023"	"2009"	"2009"	108	11963	902.8
+	"Grant County, WV"	"54023"	"2010"	"2010"	119	11937	996.9
+	"Grant County, WV"	"54023"	"2011"	"2011"	141	11891	1185.8
+	"Grant County, WV"	"54023"	"2012"	"2012"	127	11816	1074.8
+"Total"	"Grant County, WV"	"54023"			846	83432	1014.0
+	"Greenbrier County, WV"	"54025"	"2006"	"2006"	442	35196	1255.8
+	"Greenbrier County, WV"	"54025"	"2007"	"2007"	428	35354	1210.6
+	"Greenbrier County, WV"	"54025"	"2008"	"2008"	498	35457	1404.5
+	"Greenbrier County, WV"	"54025"	"2009"	"2009"	483	35351	1366.3
+	"Greenbrier County, WV"	"54025"	"2010"	"2010"	458	35480	1290.9
+	"Greenbrier County, WV"	"54025"	"2011"	"2011"	529	35800	1477.7
+	"Greenbrier County, WV"	"54025"	"2012"	"2012"	467	35820	1303.7
+"Total"	"Greenbrier County, WV"	"54025"			3305	248458	1330.2
+	"Hampshire County, WV"	"54027"	"2006"	"2006"	194	23016	842.9
+	"Hampshire County, WV"	"54027"	"2007"	"2007"	205	23492	872.6
+	"Hampshire County, WV"	"54027"	"2008"	"2008"	208	23664	879.0
+	"Hampshire County, WV"	"54027"	"2009"	"2009"	220	23820	923.6
+	"Hampshire County, WV"	"54027"	"2010"	"2010"	246	23964	1026.5
+	"Hampshire County, WV"	"54027"	"2011"	"2011"	253	23812	1062.5
+	"Hampshire County, WV"	"54027"	"2012"	"2012"	251	23709	1058.7
+"Total"	"Hampshire County, WV"	"54027"			1577	165477	953.0
+	"Hancock County, WV"	"54029"	"2006"	"2006"	392	31266	1253.8
+	"Hancock County, WV"	"54029"	"2007"	"2007"	402	30887	1301.5
+	"Hancock County, WV"	"54029"	"2008"	"2008"	419	30802	1360.3
+	"Hancock County, WV"	"54029"	"2009"	"2009"	430	30748	1398.5
+	"Hancock County, WV"	"54029"	"2010"	"2010"	381	30676	1242.0
+	"Hancock County, WV"	"54029"	"2011"	"2011"	388	30571	1269.2
+	"Hancock County, WV"	"54029"	"2012"	"2012"	440	30305	1451.9
+"Total"	"Hancock County, WV"	"54029"			2852	215255	1324.9
+	"Hardy County, WV"	"54031"	"2006"	"2006"	132	13611	969.8
+	"Hardy County, WV"	"54031"	"2007"	"2007"	140	13807	1014.0
+	"Hardy County, WV"	"54031"	"2008"	"2008"	128	13793	928.0
+	"Hardy County, WV"	"54031"	"2009"	"2009"	150	13885	1080.3
+	"Hardy County, WV"	"54031"	"2010"	"2010"	143	14025	1019.6
+	"Hardy County, WV"	"54031"	"2011"	"2011"	144	13912	1035.1
+	"Hardy County, WV"	"54031"	"2012"	"2012"	131	13866	944.8
+"Total"	"Hardy County, WV"	"54031"			968	96899	999.0
+	"Harrison County, WV"	"54033"	"2006"	"2006"	828	68141	1215.1
+	"Harrison County, WV"	"54033"	"2007"	"2007"	855	67940	1258.5
+	"Harrison County, WV"	"54033"	"2008"	"2008"	823	68441	1202.5
+	"Harrison County, WV"	"54033"	"2009"	"2009"	874	68696	1272.3
+	"Harrison County, WV"	"54033"	"2010"	"2010"	828	69099	1198.3
+	"Harrison County, WV"	"54033"	"2011"	"2011"	930	69436	1339.4
+	"Harrison County, WV"	"54033"	"2012"	"2012"	834	69141	1206.2
+"Total"	"Harrison County, WV"	"54033"			5972	480894	1241.9
+	"Jackson County, WV"	"54035"	"2006"	"2006"	306	28877	1059.7
+	"Jackson County, WV"	"54035"	"2007"	"2007"	318	29089	1093.2
+	"Jackson County, WV"	"54035"	"2008"	"2008"	346	29101	1189.0
+	"Jackson County, WV"	"54035"	"2009"	"2009"	331	29155	1135.3
+	"Jackson County, WV"	"54035"	"2010"	"2010"	326	29211	1116.0
+	"Jackson County, WV"	"54035"	"2011"	"2011"	315	29241	1077.3
+	"Jackson County, WV"	"54035"	"2012"	"2012"	352	29234	1204.1
+"Total"	"Jackson County, WV"	"54035"			2294	203908	1125.0
+	"Jefferson County, WV"	"54037"	"2006"	"2006"	378	50003	756.0
+	"Jefferson County, WV"	"54037"	"2007"	"2007"	434	51264	846.6
+	"Jefferson County, WV"	"54037"	"2008"	"2008"	402	52184	770.4
+	"Jefferson County, WV"	"54037"	"2009"	"2009"	423	53054	797.3
+	"Jefferson County, WV"	"54037"	"2010"	"2010"	440	53498	822.5
+	"Jefferson County, WV"	"54037"	"2011"	"2011"	417	54225	769.0
+	"Jefferson County, WV"	"54037"	"2012"	"2012"	449	54504	823.8
+"Total"	"Jefferson County, WV"	"54037"			2943	368732	798.1
+	"Kanawha County, WV"	"54039"	"2006"	"2006"	2403	192954	1245.4
+	"Kanawha County, WV"	"54039"	"2007"	"2007"	2443	192354	1270.1
+	"Kanawha County, WV"	"54039"	"2008"	"2008"	2578	192414	1339.8
+	"Kanawha County, WV"	"54039"	"2009"	"2009"	2457	193150	1272.1
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	2473	193063	1280.9
+	"Kanawha County, WV"	"54039"	"2011"	"2011"	2391	192315	1243.3
+	"Kanawha County, WV"	"54039"	"2012"	"2012"	2418	192179	1258.2
+"Total"	"Kanawha County, WV"	"54039"			17163	1348429	1272.8
+	"Lewis County, WV"	"54041"	"2006"	"2006"	235	16445	1429.0
+	"Lewis County, WV"	"54041"	"2007"	"2007"	240	16360	1467.0
+	"Lewis County, WV"	"54041"	"2008"	"2008"	219	16422	1333.6
+	"Lewis County, WV"	"54041"	"2009"	"2009"	223	16422	1357.9
+	"Lewis County, WV"	"54041"	"2010"	"2010"	198	16372	1209.4
+	"Lewis County, WV"	"54041"	"2011"	"2011"	202	16416	1230.5
+	"Lewis County, WV"	"54041"	"2012"	"2012"	238	16371	1453.8
+"Total"	"Lewis County, WV"	"54041"			1555	114808	1354.4
+	"Lincoln County, WV"	"54043"	"2006"	"2006"	254	22064	1151.2
+	"Lincoln County, WV"	"54043"	"2007"	"2007"	263	21953	1198.0
+	"Lincoln County, WV"	"54043"	"2008"	"2008"	268	21881	1224.8
+	"Lincoln County, WV"	"54043"	"2009"	"2009"	264	21794	1211.3
+	"Lincoln County, WV"	"54043"	"2010"	"2010"	277	21720	1275.3
+	"Lincoln County, WV"	"54043"	"2011"	"2011"	286	21550	1327.1
+	"Lincoln County, WV"	"54043"	"2012"	"2012"	245	21627	1132.8
+"Total"	"Lincoln County, WV"	"54043"			1857	152589	1217.0
+	"Logan County, WV"	"54045"	"2006"	"2006"	507	36440	1391.3
+	"Logan County, WV"	"54045"	"2007"	"2007"	484	36443	1328.1
+	"Logan County, WV"	"54045"	"2008"	"2008"	498	36548	1362.6
+	"Logan County, WV"	"54045"	"2009"	"2009"	508	36645	1386.3
+	"Logan County, WV"	"54045"	"2010"	"2010"	483	36743	1314.5
+	"Logan County, WV"	"54045"	"2011"	"2011"	549	36457	1505.9
+	"Logan County, WV"	"54045"	"2012"	"2012"	515	36168	1423.9
+"Total"	"Logan County, WV"	"54045"			3544	255444	1387.4
+	"McDowell County, WV"	"54047"	"2006"	"2006"	380	23199	1638.0
+	"McDowell County, WV"	"54047"	"2007"	"2007"	374	22746	1644.2
+	"McDowell County, WV"	"54047"	"2008"	"2008"	374	22494	1662.7
+	"McDowell County, WV"	"54047"	"2009"	"2009"	359	22276	1611.6
+	"McDowell County, WV"	"54047"	"2010"	"2010"	364	22113	1646.1
+	"McDowell County, WV"	"54047"	"2011"	"2011"	381	21729	1753.4
+	"McDowell County, WV"	"54047"	"2012"	"2012"	399	21326	1871.0
+"Total"	"McDowell County, WV"	"54047"			2631	155883	1687.8
+	"Marion County, WV"	"54049"	"2006"	"2006"	670	56284	1190.4
+	"Marion County, WV"	"54049"	"2007"	"2007"	695	56445	1231.3
+	"Marion County, WV"	"54049"	"2008"	"2008"	730	56141	1300.3
+	"Marion County, WV"	"54049"	"2009"	"2009"	687	56426	1217.5
+	"Marion County, WV"	"54049"	"2010"	"2010"	641	56418	1136.2
+	"Marion County, WV"	"54049"	"2011"	"2011"	643	56586	1136.3
+	"Marion County, WV"	"54049"	"2012"	"2012"	657	56678	1159.2
+"Total"	"Marion County, WV"	"54049"			4723	394978	1195.8
+	"Marshall County, WV"	"54051"	"2006"	"2006"	388	33814	1147.5
+	"Marshall County, WV"	"54051"	"2007"	"2007"	373	33583	1110.7
+	"Marshall County, WV"	"54051"	"2008"	"2008"	406	33248	1221.1
+	"Marshall County, WV"	"54051"	"2009"	"2009"	389	33116	1174.7
+	"Marshall County, WV"	"54051"	"2010"	"2010"	387	33107	1168.9
+	"Marshall County, WV"	"54051"	"2011"	"2011"	408	32800	1243.9
+	"Marshall County, WV"	"54051"	"2012"	"2012"	437	32674	1337.5
+"Total"	"Marshall County, WV"	"54051"			2788	232342	1200.0
+	"Mason County, WV"	"54053"	"2006"	"2006"	321	26648	1204.6
+	"Mason County, WV"	"54053"	"2007"	"2007"	295	26738	1103.3
+	"Mason County, WV"	"54053"	"2008"	"2008"	311	27097	1147.7
+	"Mason County, WV"	"54053"	"2009"	"2009"	314	27309	1149.8
+	"Mason County, WV"	"54053"	"2010"	"2010"	359	27324	1313.9
+	"Mason County, WV"	"54053"	"2011"	"2011"	325	27298	1190.6
+	"Mason County, WV"	"54053"	"2012"	"2012"	326	27179	1199.5
+"Total"	"Mason County, WV"	"54053"			2251	189593	1187.3
+	"Mercer County, WV"	"54055"	"2006"	"2006"	824	61297	1344.3
+	"Mercer County, WV"	"54055"	"2007"	"2007"	900	61615	1460.7
+	"Mercer County, WV"	"54055"	"2008"	"2008"	848	61848	1371.1
+	"Mercer County, WV"	"54055"	"2009"	"2009"	894	62177	1437.8
+	"Mercer County, WV"	"54055"	"2010"	"2010"	863	62264	1386.0
+	"Mercer County, WV"	"54055"	"2011"	"2011"	946	62465	1514.4
+	"Mercer County, WV"	"54055"	"2012"	"2012"	912	62523	1458.7
+"Total"	"Mercer County, WV"	"54055"			6187	434189	1425.0
+	"Mineral County, WV"	"54057"	"2006"	"2006"	321	27324	1174.8
+	"Mineral County, WV"	"54057"	"2007"	"2007"	277	27532	1006.1
+	"Mineral County, WV"	"54057"	"2008"	"2008"	287	27824	1031.5
+	"Mineral County, WV"	"54057"	"2009"	"2009"	331	28080	1178.8
+	"Mineral County, WV"	"54057"	"2010"	"2010"	327	28212	1159.1
+	"Mineral County, WV"	"54057"	"2011"	"2011"	319	28192	1131.5
+	"Mineral County, WV"	"54057"	"2012"	"2012"	310	27956	1108.9
+"Total"	"Mineral County, WV"	"54057"			2172	195120	1113.2
+	"Mingo County, WV"	"54059"	"2006"	"2006"	392	27054	1449.0
+	"Mingo County, WV"	"54059"	"2007"	"2007"	353	27145	1300.4
+	"Mingo County, WV"	"54059"	"2008"	"2008"	378	26850	1407.8
+	"Mingo County, WV"	"54059"	"2009"	"2009"	369	26943	1369.6
+	"Mingo County, WV"	"54059"	"2010"	"2010"	360	26839	1341.3
+	"Mingo County, WV"	"54059"	"2011"	"2011"	369	26563	1389.2
+	"Mingo County, WV"	"54059"	"2012"	"2012"	349	26103	1337.0
+"Total"	"Mingo County, WV"	"54059"			2570	187497	1370.7
+	"Monongalia County, WV"	"54061"	"2006"	"2006"	599	89656	668.1
+	"Monongalia County, WV"	"54061"	"2007"	"2007"	630	90764	694.1
+	"Monongalia County, WV"	"54061"	"2008"	"2008"	634	92200	687.6
+	"Monongalia County, WV"	"54061"	"2009"	"2009"	614	94165	652.0
+	"Monongalia County, WV"	"54061"	"2010"	"2010"	617	96189	641.4
+	"Monongalia County, WV"	"54061"	"2011"	"2011"	650	98528	659.7
+	"Monongalia County, WV"	"54061"	"2012"	"2012"	651	100332	648.8
+"Total"	"Monongalia County, WV"	"54061"			4395	661834	664.1
+	"Monroe County, WV"	"54063"	"2006"	"2006"	145	13382	1083.5
+	"Monroe County, WV"	"54063"	"2007"	"2007"	165	13452	1226.6
+	"Monroe County, WV"	"54063"	"2008"	"2008"	165	13607	1212.6
+	"Monroe County, WV"	"54063"	"2009"	"2009"	153	13543	1129.7
+	"Monroe County, WV"	"54063"	"2010"	"2010"	175	13502	1296.1
+	"Monroe County, WV"	"54063"	"2011"	"2011"	173	13534	1278.3
+	"Monroe County, WV"	"54063"	"2012"	"2012"	166	13463	1233.0
+"Total"	"Monroe County, WV"	"54063"			1142	94483	1208.7
+	"Morgan County, WV"	"54065"	"2006"	"2006"	183	17038	1074.1
+	"Morgan County, WV"	"54065"	"2007"	"2007"	181	17410	1039.6
+	"Morgan County, WV"	"54065"	"2008"	"2008"	196	17520	1118.7
+	"Morgan County, WV"	"54065"	"2009"	"2009"	194	17580	1103.5
+	"Morgan County, WV"	"54065"	"2010"	"2010"	212	17541	1208.6
+	"Morgan County, WV"	"54065"	"2011"	"2011"	194	17535	1106.4
+	"Morgan County, WV"	"54065"	"2012"	"2012"	190	17471	1087.5
+"Total"	"Morgan County, WV"	"54065"			1350	122095	1105.7
+	"Nicholas County, WV"	"54067"	"2006"	"2006"	324	26205	1236.4
+	"Nicholas County, WV"	"54067"	"2007"	"2007"	320	26130	1224.6
+	"Nicholas County, WV"	"54067"	"2008"	"2008"	326	26138	1247.2
+	"Nicholas County, WV"	"54067"	"2009"	"2009"	328	26253	1249.4
+	"Nicholas County, WV"	"54067"	"2010"	"2010"	325	26233	1238.9
+	"Nicholas County, WV"	"54067"	"2011"	"2011"	341	26268	1298.2
+	"Nicholas County, WV"	"54067"	"2012"	"2012"	356	26229	1357.3
+"Total"	"Nicholas County, WV"	"54067"			2320	183456	1264.6
+	"Ohio County, WV"	"54069"	"2006"	"2006"	549	44925	1222.0
+	"Ohio County, WV"	"54069"	"2007"	"2007"	611	44714	1366.5
+	"Ohio County, WV"	"54069"	"2008"	"2008"	571	44469	1284.0
+	"Ohio County, WV"	"54069"	"2009"	"2009"	609	44355	1373.0
+	"Ohio County, WV"	"54069"	"2010"	"2010"	557	44443	1253.3
+	"Ohio County, WV"	"54069"	"2011"	"2011"	580	44246	1310.9
+	"Ohio County, WV"	"54069"	"2012"	"2012"	630	44075	1429.4
+"Total"	"Ohio County, WV"	"54069"			4107	311227	1319.6
+	"Pendleton County, WV"	"54071"	"2006"	"2006"	95	7922	1199.2
+	"Pendleton County, WV"	"54071"	"2007"	"2007"	97	7792	1244.9
+	"Pendleton County, WV"	"54071"	"2008"	"2008"	106	7761	1365.8
+	"Pendleton County, WV"	"54071"	"2009"	"2009"	68	7701	883.0
+	"Pendleton County, WV"	"54071"	"2010"	"2010"	94	7695	1221.6
+	"Pendleton County, WV"	"54071"	"2011"	"2011"	104	7673	1355.4
+	"Pendleton County, WV"	"54071"	"2012"	"2012"	103	7566	1361.4
+"Total"	"Pendleton County, WV"	"54071"			667	54110	1232.7
+	"Pleasants County, WV"	"54073"	"2006"	"2006"	68	7670	886.6
+	"Pleasants County, WV"	"54073"	"2007"	"2007"	79	7698	1026.2
+	"Pleasants County, WV"	"54073"	"2008"	"2008"	83	7702	1077.6
+	"Pleasants County, WV"	"54073"	"2009"	"2009"	82	7672	1068.8
+	"Pleasants County, WV"	"54073"	"2010"	"2010"	90	7605	1183.4
+	"Pleasants County, WV"	"54073"	"2011"	"2011"	104	7611	1366.4
+	"Pleasants County, WV"	"54073"	"2012"	"2012"	103	7595	1356.2
+"Total"	"Pleasants County, WV"	"54073"			609	53553	1137.2
+	"Pocahontas County, WV"	"54075"	"2006"	"2006"	123	8938	1376.1
+	"Pocahontas County, WV"	"54075"	"2007"	"2007"	117	8851	1321.9
+	"Pocahontas County, WV"	"54075"	"2008"	"2008"	107	8807	1214.9
+	"Pocahontas County, WV"	"54075"	"2009"	"2009"	110	8746	1257.7
+	"Pocahontas County, WV"	"54075"	"2010"	"2010"	115	8719	1319.0
+	"Pocahontas County, WV"	"54075"	"2011"	"2011"	91	8786	1035.7
+	"Pocahontas County, WV"	"54075"	"2012"	"2012"	107	8692	1231.0
+"Total"	"Pocahontas County, WV"	"54075"			770	61539	1251.2
+	"Preston County, WV"	"54077"	"2006"	"2006"	303	32238	939.9
+	"Preston County, WV"	"54077"	"2007"	"2007"	329	32743	1004.8
+	"Preston County, WV"	"54077"	"2008"	"2008"	340	33067	1028.2
+	"Preston County, WV"	"54077"	"2009"	"2009"	311	33333	933.0
+	"Preston County, WV"	"54077"	"2010"	"2010"	319	33520	951.7
+	"Preston County, WV"	"54077"	"2011"	"2011"	336	33723	996.4
+	"Preston County, WV"	"54077"	"2012"	"2012"	362	33832	1070.0
+"Total"	"Preston County, WV"	"54077"			2300	232456	989.4
+	"Putnam County, WV"	"54079"	"2006"	"2006"	453	54207	835.7
+	"Putnam County, WV"	"54079"	"2007"	"2007"	472	54669	863.4
+	"Putnam County, WV"	"54079"	"2008"	"2008"	535	55051	971.8
+	"Putnam County, WV"	"54079"	"2009"	"2009"	504	55178	913.4
+	"Putnam County, WV"	"54079"	"2010"	"2010"	504	55486	908.3
+	"Putnam County, WV"	"54079"	"2011"	"2011"	510	56008	910.6
+	"Putnam County, WV"	"54079"	"2012"	"2012"	582	56435	1031.3
+"Total"	"Putnam County, WV"	"54079"			3560	387034	919.8
+	"Raleigh County, WV"	"54081"	"2006"	"2006"	902	78178	1153.8
+	"Raleigh County, WV"	"54081"	"2007"	"2007"	962	78323	1228.2
+	"Raleigh County, WV"	"54081"	"2008"	"2008"	919	78379	1172.5
+	"Raleigh County, WV"	"54081"	"2009"	"2009"	990	78782	1256.6
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	1012	78859	1283.3
+	"Raleigh County, WV"	"54081"	"2011"	"2011"	986	79127	1246.1
+	"Raleigh County, WV"	"54081"	"2012"	"2012"	1071	79021	1355.3
+"Total"	"Raleigh County, WV"	"54081"			6842	550669	1242.5
+	"Randolph County, WV"	"54083"	"2006"	"2006"	337	29049	1160.1
+	"Randolph County, WV"	"54083"	"2007"	"2007"	307	29113	1054.5
+	"Randolph County, WV"	"54083"	"2008"	"2008"	338	29236	1156.1
+	"Randolph County, WV"	"54083"	"2009"	"2009"	352	29381	1198.1
+	"Randolph County, WV"	"54083"	"2010"	"2010"	310	29405	1054.2
+	"Randolph County, WV"	"54083"	"2011"	"2011"	362	29465	1228.6
+	"Randolph County, WV"	"54083"	"2012"	"2012"	355	29384	1208.1
+"Total"	"Randolph County, WV"	"54083"			2361	205033	1151.5
+	"Ritchie County, WV"	"54085"	"2006"	"2006"	134	10588	1265.6
+	"Ritchie County, WV"	"54085"	"2007"	"2007"	119	10558	1127.1
+	"Ritchie County, WV"	"54085"	"2008"	"2008"	128	10516	1217.2
+	"Ritchie County, WV"	"54085"	"2009"	"2009"	139	10478	1326.6
+	"Ritchie County, WV"	"54085"	"2010"	"2010"	119	10449	1138.9
+	"Ritchie County, WV"	"54085"	"2011"	"2011"	122	10295	1185.0
+	"Ritchie County, WV"	"54085"	"2012"	"2012"	126	10236	1230.9
+"Total"	"Ritchie County, WV"	"54085"			887	73120	1213.1
+	"Roane County, WV"	"54087"	"2006"	"2006"	178	15442	1152.7
+	"Roane County, WV"	"54087"	"2007"	"2007"	201	15215	1321.1
+	"Roane County, WV"	"54087"	"2008"	"2008"	189	15048	1256.0
+	"Roane County, WV"	"54087"	"2009"	"2009"	177	14966	1182.7
+	"Roane County, WV"	"54087"	"2010"	"2010"	169	14926	1132.3
+	"Roane County, WV"	"54087"	"2011"	"2011"	176	14858	1184.5
+	"Roane County, WV"	"54087"	"2012"	"2012"	191	14684	1300.7
+"Total"	"Roane County, WV"	"54087"			1281	105139	1218.4
+	"Summers County, WV"	"54089"	"2006"	"2006"	146	13879	1051.9
+	"Summers County, WV"	"54089"	"2007"	"2007"	152	13842	1098.1
+	"Summers County, WV"	"54089"	"2008"	"2008"	198	13712	1444.0
+	"Summers County, WV"	"54089"	"2009"	"2009"	159	13882	1145.4
+	"Summers County, WV"	"54089"	"2010"	"2010"	206	13927	1479.1
+	"Summers County, WV"	"54089"	"2011"	"2011"	207	13867	1492.8
+	"Summers County, WV"	"54089"	"2012"	"2012"	171	13737	1244.8
+"Total"	"Summers County, WV"	"54089"			1239	96846	1279.4
+	"Taylor County, WV"	"54091"	"2006"	"2006"	164	16498	994.1
+	"Taylor County, WV"	"54091"	"2007"	"2007"	171	16640	1027.6
+	"Taylor County, WV"	"54091"	"2008"	"2008"	195	16792	1161.3
+	"Taylor County, WV"	"54091"	"2009"	"2009"	180	16838	1069.0
+	"Taylor County, WV"	"54091"	"2010"	"2010"	199	16895	1177.9
+	"Taylor County, WV"	"54091"	"2011"	"2011"	203	16916	1200.0
+	"Taylor County, WV"	"54091"	"2012"	"2012"	179	16991	1053.5
+"Total"	"Taylor County, WV"	"54091"			1291	117570	1098.1
+	"Tucker County, WV"	"54093"	"2006"	"2006"	78	7111	1096.9
+	"Tucker County, WV"	"54093"	"2007"	"2007"	87	7117	1222.4
+	"Tucker County, WV"	"54093"	"2008"	"2008"	83	7160	1159.2
+	"Tucker County, WV"	"54093"	"2009"	"2009"	107	7172	1491.9
+	"Tucker County, WV"	"54093"	"2010"	"2010"	94	7141	1316.3
+	"Tucker County, WV"	"54093"	"2011"	"2011"	91	7021	1296.1
+	"Tucker County, WV"	"54093"	"2012"	"2012"	88	6995	1258.0
+"Total"	"Tucker County, WV"	"54093"			628	49717	1263.1
+	"Tyler County, WV"	"54095"	"2006"	"2006"	106	9484	1117.7
+	"Tyler County, WV"	"54095"	"2007"	"2007"	112	9423	1188.6
+	"Tyler County, WV"	"54095"	"2008"	"2008"	109	9363	1164.2
+	"Tyler County, WV"	"54095"	"2009"	"2009"	103	9249	1113.6
+	"Tyler County, WV"	"54095"	"2010"	"2010"	127	9208	1379.2
+	"Tyler County, WV"	"54095"	"2011"	"2011"	152	9121	1666.5
+	"Tyler County, WV"	"54095"	"2012"	"2012"	124	9037	1372.1
+"Total"	"Tyler County, WV"	"54095"			833	64885	1283.8
+	"Upshur County, WV"	"54097"	"2006"	"2006"	260	23754	1094.6
+	"Upshur County, WV"	"54097"	"2007"	"2007"	273	23851	1144.6
+	"Upshur County, WV"	"54097"	"2008"	"2008"	238	23929	994.6
+	"Upshur County, WV"	"54097"	"2009"	"2009"	258	24124	1069.5
+	"Upshur County, WV"	"54097"	"2010"	"2010"	258	24254	1063.7
+	"Upshur County, WV"	"54097"	"2011"	"2011"	252	24322	1036.1
+	"Upshur County, WV"	"54097"	"2012"	"2012"	261	24477	1066.3
+"Total"	"Upshur County, WV"	"54097"			1800	168711	1066.9
+	"Wayne County, WV"	"54099"	"2006"	"2006"	468	42717	1095.6
+	"Wayne County, WV"	"54099"	"2007"	"2007"	436	42727	1020.4
+	"Wayne County, WV"	"54099"	"2008"	"2008"	445	42767	1040.5
+	"Wayne County, WV"	"54099"	"2009"	"2009"	483	42637	1132.8
+	"Wayne County, WV"	"54099"	"2010"	"2010"	482	42481	1134.6
+	"Wayne County, WV"	"54099"	"2011"	"2011"	456	42126	1082.5
+	"Wayne County, WV"	"54099"	"2012"	"2012"	459	41649	1102.1
+"Total"	"Wayne County, WV"	"54099"			3229	297104	1086.8
+	"Webster County, WV"	"54101"	"2006"	"2006"	128	9391	1363.0
+	"Webster County, WV"	"54101"	"2007"	"2007"	121	9260	1306.7
+	"Webster County, WV"	"54101"	"2008"	"2008"	110	9260	1187.9
+	"Webster County, WV"	"54101"	"2009"	"2009"	117	9167	1276.3
+	"Webster County, WV"	"54101"	"2010"	"2010"	98	9154	1070.6
+	"Webster County, WV"	"54101"	"2011"	"2011"	131	9143	1432.8
+	"Webster County, WV"	"54101"	"2012"	"2012"	128	9043	1415.5
+"Total"	"Webster County, WV"	"54101"			833	64418	1293.1
+	"Wetzel County, WV"	"54103"	"2006"	"2006"	219	16917	1294.6
+	"Wetzel County, WV"	"54103"	"2007"	"2007"	206	16764	1228.8
+	"Wetzel County, WV"	"54103"	"2008"	"2008"	206	16645	1237.6
+	"Wetzel County, WV"	"54103"	"2009"	"2009"	230	16588	1386.5
+	"Wetzel County, WV"	"54103"	"2010"	"2010"	215	16583	1296.5
+	"Wetzel County, WV"	"54103"	"2011"	"2011"	227	16351	1388.3
+	"Wetzel County, WV"	"54103"	"2012"	"2012"	227	16422	1382.3
+"Total"	"Wetzel County, WV"	"54103"			1530	116270	1315.9
+	"Wirt County, WV"	"54105"	"2006"	"2006"	59	5791	1018.8
+	"Wirt County, WV"	"54105"	"2007"	"2007"	49	5806	844.0
+	"Wirt County, WV"	"54105"	"2008"	"2008"	68	5745	1183.6
+	"Wirt County, WV"	"54105"	"2009"	"2009"	54	5703	946.9
+	"Wirt County, WV"	"54105"	"2010"	"2010"	61	5717	1067.0
+	"Wirt County, WV"	"54105"	"2011"	"2011"	62	5762	1076.0
+	"Wirt County, WV"	"54105"	"2012"	"2012"	52	5847	889.3
+"Total"	"Wirt County, WV"	"54105"			405	40371	1003.2
+	"Wood County, WV"	"54107"	"2006"	"2006"	936	86552	1081.4
+	"Wood County, WV"	"54107"	"2007"	"2007"	950	86489	1098.4
+	"Wood County, WV"	"54107"	"2008"	"2008"	1019	86783	1174.2
+	"Wood County, WV"	"54107"	"2009"	"2009"	1021	86841	1175.7
+	"Wood County, WV"	"54107"	"2010"	"2010"	989	86956	1137.4
+	"Wood County, WV"	"54107"	"2011"	"2011"	1039	87120	1192.6
+	"Wood County, WV"	"54107"	"2012"	"2012"	1007	86701	1161.5
+"Total"	"Wood County, WV"	"54107"			6961	607442	1146.0
+	"Wyoming County, WV"	"54109"	"2006"	"2006"	290	24288	1194.0
+	"Wyoming County, WV"	"54109"	"2007"	"2007"	313	24078	1299.9
+	"Wyoming County, WV"	"54109"	"2008"	"2008"	315	23957	1314.9
+	"Wyoming County, WV"	"54109"	"2009"	"2009"	344	23899	1439.4
+	"Wyoming County, WV"	"54109"	"2010"	"2010"	320	23796	1344.8
+	"Wyoming County, WV"	"54109"	"2011"	"2011"	345	23419	1473.2
+	"Wyoming County, WV"	"54109"	"2012"	"2012"	351	23273	1508.2
+"Total"	"Wyoming County, WV"	"54109"			2278	166710	1366.4
+"Total"					149758	12913820	1159.7
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"States: West Virginia (54)"
+"Year/Month: 2006; 2007; 2008; 2009; 2010; 2011; 2012"
+"Group By: County; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 7, 2019 7:44:56 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 7, 2019 7:44:56 PM"
+"---"
+Caveats:
+"1. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1"
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from"
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are"
+"April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population"
+"figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -"
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time"
+"of release."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
